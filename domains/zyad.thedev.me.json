@@ -1,0 +1,11 @@
+{
+  "subdomain": "zyad",
+  "domain": "thedev.me",
+  "email_or_discord": "zyadbdr662@gmail.com",
+  "github_username": "zyadbdr662-maker",
+  "description": "موقعي الشخصي",
+  "records": {
+    "CNAME": ["zyadbdr662-maker.github.io"]
+  },
+  "proxied": false
+}
